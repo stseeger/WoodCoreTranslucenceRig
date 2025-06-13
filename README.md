@@ -24,12 +24,8 @@ Print the following part with a transparent material with a matte surface finnis
 Aquire an WS2812B (or similar) LED strip with 60 LEDs/m (a 20 cm piece should suffice) and place it at the bottom of the rig.
 [Connect the LED-strip to an Arduino Uno](doc/wiring_LED_to_Arduino.JPG) programmed with the [provided firmware](Firmware/translucenceRig/translucenceRig.ino).  
 
-Connect the Arduino with a PC and open the Serial Monitor of the Arduino IDE to adjust the number of active LEDs and their brightness. If you are able to minimize the ambient light around the rig (e.g. by placing it in a dark box), you will get better results at lower brightness values of the LED strip.  
+Connect the Arduino to a computer and open the Serial Monitor of the Arduino IDE to adjust the number of active LEDs and their brightness. If you are able to minimize the ambient light around the rig (e.g. by placing it in a dark box), you will get better results at lower brightness values of the LED strip.  
 
 Aquire a fresh wood core (B) with an 5.15 mm increment borer and slide it into the rig.  Before fully sliding the core into the rig, you should find the orientation with the maximum translucence. Afterwards, you can use the slider (E) to move the core sample it within the rig.  
 
-Identify the sapwood by translucence, take a photograph and use a scalpel to slice the wood core through one of the slits within the rig. Use the slider to push all parts of the wood core out of the rig.
-
-
-
-
+Identify the sapwood by translucence, take a photograph and use a scalpel to slice the wood core into sapwood and heartwood through one of the slits within the rig. Use the slider to push all parts of the wood core out of the rig.
