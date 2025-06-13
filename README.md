@@ -22,8 +22,7 @@ Print the following part with a transparent material with a matte surface finnis
 [E: translucenceRig-diffusor.stl](Hardware/translucenceRig-diffusor.stl)  
 
 Aquire an WS2812B (or similar) LED strip with 60 LEDs/m (a 20 cm piece should suffice) and place it at the bottom of the rig.
-[Connect the LED-strip to an Arduino Uno](doc/wiring_LED_to_Arduino.JPG) programmed with the firmware:  
-[translucenceRig.ino](Firmware/translucenceRig/translucenceRig.ino)  
+[Connect the LED-strip to an Arduino Uno](doc/wiring_LED_to_Arduino.JPG) programmed with the [provided firmware](Firmware/translucenceRig/translucenceRig.ino).  
 
 Connect the Arduino with a PC and open the Serial Monitor of the Arduino IDE to adjust the number of active LEDs and their brightness. If you are able to minimize the ambient light around the rig (e.g. by placing it in a dark box), you will get better results at lower brightness values of the LED strip.  
 
