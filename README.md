@@ -11,4 +11,4 @@ The current version of the translucence rig features slits at 10 mm intervals th
 
 ## About
 
-![image](https://github.com/stseeger/WoodCoreTranslucenceRig/doc/rigParts)
+![image](https://github.com/stseeger/WoodCoreTranslucenceRig/doc/rigParts.jpg)
